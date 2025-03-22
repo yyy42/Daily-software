@@ -1,0 +1,34 @@
+Windows:
+PowerShell7
+WSL
+WSA
+VMware WorkStation Pro
+iTunes
+iCloud
+GeekUninstall
+
+Mac:
+Edge
+VMware Fusion
+Outlook
+
+Mac and Windows:
+Ollama
+Chatbox
+Anything
+PyCharm
+Python
+Git
+Neat Download Manager(NDM)
+Java(JDK)
+Trae
+Google Chrome (https://google.cn/chrome)
+WeChat
+Bilibili
+TikTok
+AltServer
+i4
+Docker
+GitHub Desktop
+JetBrains Toolbox
+Watt Tookit
